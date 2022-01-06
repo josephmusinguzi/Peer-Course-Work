@@ -1,4 +1,4 @@
-# Peer-Course-Work
+# Peer to peer Course work
 Demonstration of Peer to peer
 
 introduction
